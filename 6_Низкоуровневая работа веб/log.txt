@@ -1,0 +1,457 @@
+Date: Tue, 30 Nov 2021 20:01:30 GTM
+Addr: ('127.0.0.1', 56960)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat2.jpg
+Error: 404
+Date: Tue, 30 Nov 2021 20:04:56 GTM
+Addr: ('127.0.0.1', 55314)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat2.jpg
+Error: 404
+Date: Tue, 30 Nov 2021 20:05:27 GTM
+Addr: ('127.0.0.1', 54658)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat2.jpg
+Error: 404
+Date: Tue, 30 Nov 2021 20:07:08 GTM
+Addr: ('127.0.0.1', 57669)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:07:20 GTM
+Addr: ('127.0.0.1', 57447)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.xml
+Error: 404
+Date: Tue, 30 Nov 2021 20:08:04 GTM
+Addr: ('127.0.0.1', 53691)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:13:47 GTM
+Addr: ('127.0.0.1', 60089)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index3.html
+Error: 404
+Date: Tue, 30 Nov 2021 20:13:49 GTM
+Addr: ('127.0.0.1', 57226)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index3.html
+Error: 404
+Date: Tue, 30 Nov 2021 20:13:49 GTM
+Addr: ('127.0.0.1', 56895)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index3.html
+Error: 404
+Date: Tue, 30 Nov 2021 20:15:26 GTM
+Addr: ('127.0.0.1', 61545)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index3.html
+Error: 404
+Date: Tue, 30 Nov 2021 20:19:28 GTM
+Addr: ('127.0.0.1', 64288)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index3.html
+Error: 404
+Date: Tue, 30 Nov 2021 20:23:20 GTM
+Addr: ('127.0.0.1', 58676)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\dog.gif
+Date: Tue, 30 Nov 2021 20:23:25 GTM
+Addr: ('127.0.0.1', 57049)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 20:24:12 GTM
+Addr: ('127.0.0.1', 58591)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 20:24:22 GTM
+Addr: ('127.0.0.1', 55384)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:24:45 GTM
+Addr: ('127.0.0.1', 49977)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:27:27 GTM
+Addr: ('127.0.0.1', 61526)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:27:44 GTM
+Addr: ('127.0.0.1', 52291)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:27:48 GTM
+Addr: ('127.0.0.1', 63505)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:28:31 GTM
+Addr: ('127.0.0.1', 50400)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\imdex.html
+Error: 404
+Date: Tue, 30 Nov 2021 20:28:38 GTM
+Addr: ('127.0.0.1', 50351)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:29:06 GTM
+Addr: ('127.0.0.1', 51597)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:29:22 GTM
+Addr: ('127.0.0.1', 53691)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:29:24 GTM
+Addr: ('127.0.0.1', 56435)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:29:25 GTM
+Addr: ('127.0.0.1', 63081)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:29:30 GTM
+Addr: ('127.0.0.1', 52997)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:30:43 GTM
+Addr: ('127.0.0.1', 57881)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\favicon.ico
+Error: 404
+Date: Tue, 30 Nov 2021 20:30:52 GTM
+Addr: ('127.0.0.1', 64321)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:32:30 GTM
+Addr: ('127.0.0.1', 60066)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:32:37 GTM
+Addr: ('127.0.0.1', 61597)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:34:02 GTM
+Addr: ('127.0.0.1', 50495)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:36:34 GTM
+Addr: ('127.0.0.1', 62476)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:36:38 GTM
+Addr: ('127.0.0.1', 50212)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:37:49 GTM
+Addr: ('127.0.0.1', 52202)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:37:51 GTM
+Addr: ('127.0.0.1', 63546)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:38:09 GTM
+Addr: ('127.0.0.1', 53071)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:38:49 GTM
+Addr: ('127.0.0.1', 63957)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:39:16 GTM
+Addr: ('127.0.0.1', 61774)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:39:17 GTM
+Addr: ('127.0.0.1', 59032)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:39:22 GTM
+Addr: ('127.0.0.1', 61506)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:39:25 GTM
+Addr: ('127.0.0.1', 65259)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:39:26 GTM
+Addr: ('127.0.0.1', 59817)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:39:32 GTM
+Addr: ('127.0.0.1', 65301)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:40:03 GTM
+Addr: ('127.0.0.1', 53223)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:40:05 GTM
+Addr: ('127.0.0.1', 62968)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:40:06 GTM
+Addr: ('127.0.0.1', 62969)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:40:12 GTM
+Addr: ('127.0.0.1', 49866)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:40:17 GTM
+Addr: ('127.0.0.1', 49917)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:40:17 GTM
+Addr: ('127.0.0.1', 49918)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\favicon.ico
+Error: 404
+Date: Tue, 30 Nov 2021 20:41:04 GTM
+Addr: ('127.0.0.1', 53967)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:41:25 GTM
+Addr: ('127.0.0.1', 51150)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:41:36 GTM
+Addr: ('127.0.0.1', 51160)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:42:10 GTM
+Addr: ('127.0.0.1', 53945)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:42:33 GTM
+Addr: ('127.0.0.1', 53952)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:43:04 GTM
+Addr: ('127.0.0.1', 50652)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:43:26 GTM
+Addr: ('127.0.0.1', 54747)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index2.html
+Date: Tue, 30 Nov 2021 20:43:35 GTM
+Addr: ('127.0.0.1', 54757)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:44:41 GTM
+Addr: ('127.0.0.1', 62744)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Date: Tue, 30 Nov 2021 20:47:35 GTM
+Addr: ('127.0.0.1', 60316)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\favicon.ico
+Error: 404
+Date: Tue, 30 Nov 2021 20:49:32 GTM
+Addr: ('127.0.0.1', 64880)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\cat.jpg
+Error: 404
+Date: Tue, 30 Nov 2021 20:49:39 GTM
+Addr: ('127.0.0.1', 64897)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 20:49:49 GTM
+Addr: ('127.0.0.1', 64907)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.png
+Date: Tue, 30 Nov 2021 20:49:55 GTM
+Addr: ('127.0.0.1', 64926)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.jpg
+Date: Tue, 30 Nov 2021 20:50:00 GTM
+Addr: ('127.0.0.1', 64944)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.gif
+Date: Tue, 30 Nov 2021 20:50:28 GTM
+Addr: ('127.0.0.1', 64955)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.gif
+Date: Tue, 30 Nov 2021 20:50:32 GTM
+Addr: ('127.0.0.1', 59680)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.
+Error: 404
+Date: Tue, 30 Nov 2021 20:50:51 GTM
+Addr: ('127.0.0.1', 59688)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.gif
+Date: Tue, 30 Nov 2021 20:52:58 GTM
+Addr: ('127.0.0.1', 54899)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.png
+Date: Tue, 30 Nov 2021 20:54:43 GTM
+Addr: ('127.0.0.1', 57283)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.%D0%BE%D0%B7%D0%BF
+Error: 404
+Date: Tue, 30 Nov 2021 20:54:47 GTM
+Addr: ('127.0.0.1', 57302)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.jpg
+Date: Tue, 30 Nov 2021 20:57:17 GTM
+Addr: ('127.0.0.1', 59815)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 20:58:11 GTM
+Addr: ('127.0.0.1', 65455)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 20:58:12 GTM
+Addr: ('127.0.0.1', 65456)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 20:58:14 GTM
+Addr: ('127.0.0.1', 65457)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 20:59:05 GTM
+Addr: ('127.0.0.1', 64990)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:10:58 GTM
+Addr: ('127.0.0.1', 58404)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:11:11 GTM
+Addr: ('127.0.0.1', 49765)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:11:20 GTM
+Addr: ('127.0.0.1', 60192)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 21:11:27 GTM
+Addr: ('127.0.0.1', 60201)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:12:30 GTM
+Addr: ('127.0.0.1', 50656)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:13:22 GTM
+Addr: ('127.0.0.1', 58178)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:16:53 GTM
+Addr: ('127.0.0.1', 64349)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:16:57 GTM
+Addr: ('127.0.0.1', 64348)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:17:00 GTM
+Addr: ('127.0.0.1', 64357)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:17:58 GTM
+Addr: ('127.0.0.1', 53299)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:18:17 GTM
+Addr: ('127.0.0.1', 53331)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:18:56 GTM
+Addr: ('127.0.0.1', 57270)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:19:32 GTM
+Addr: ('127.0.0.1', 57277)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:20:02 GTM
+Addr: ('127.0.0.1', 57289)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:20:31 GTM
+Addr: ('127.0.0.1', 52740)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:20:53 GTM
+Addr: ('127.0.0.1', 52746)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:21:07 GTM
+Addr: ('127.0.0.1', 52752)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:21:13 GTM
+Addr: ('127.0.0.1', 52759)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:21:19 GTM
+Addr: ('127.0.0.1', 52779)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:21:48 GTM
+Addr: ('127.0.0.1', 52798)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:23:33 GTM
+Addr: ('127.0.0.1', 63925)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:23:34 GTM
+Addr: ('127.0.0.1', 63926)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:23:39 GTM
+Addr: ('127.0.0.1', 63945)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:23:39 GTM
+Addr: ('127.0.0.1', 63946)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:24:04 GTM
+Addr: ('127.0.0.1', 63972)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:24:04 GTM
+Addr: ('127.0.0.1', 63973)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:25:13 GTM
+Addr: ('127.0.0.1', 49749)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:25:13 GTM
+Addr: ('127.0.0.1', 49750)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:25:23 GTM
+Addr: ('127.0.0.1', 49759)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 21:25:23 GTM
+Addr: ('127.0.0.1', 49760)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:25:39 GTM
+Addr: ('127.0.0.1', 49770)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.jpg
+Date: Tue, 30 Nov 2021 21:25:39 GTM
+Addr: ('127.0.0.1', 49771)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:26:04 GTM
+Addr: ('127.0.0.1', 49777)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.jpg
+Date: Tue, 30 Nov 2021 21:26:04 GTM
+Addr: ('127.0.0.1', 49778)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:26:08 GTM
+Addr: ('127.0.0.1', 64616)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:26:09 GTM
+Addr: ('127.0.0.1', 64617)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:26:29 GTM
+Addr: ('127.0.0.1', 64628)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:26:29 GTM
+Addr: ('127.0.0.1', 64629)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:26:52 GTM
+Addr: ('127.0.0.1', 64635)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 21:26:52 GTM
+Addr: ('127.0.0.1', 64636)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 21:26:58 GTM
+Addr: ('127.0.0.1', 64637)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.gif
+Date: Tue, 30 Nov 2021 21:26:58 GTM
+Addr: ('127.0.0.1', 64643)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:04:18 GTM
+Addr: ('127.0.0.1', 63545)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:04:21 GTM
+Addr: ('127.0.0.1', 63547)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:05:46 GTM
+Addr: ('127.0.0.1', 63677)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:05:46 GTM
+Addr: ('127.0.0.1', 63678)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:06:54 GTM
+Addr: ('127.0.0.1', 63777)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:06:54 GTM
+Addr: ('127.0.0.1', 63778)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:09:49 GTM
+Addr: ('127.0.0.1', 55931)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:09:49 GTM
+Addr: ('127.0.0.1', 55936)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:11:08 GTM
+Addr: ('127.0.0.1', 56005)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:11:08 GTM
+Addr: ('127.0.0.1', 56006)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:11:10 GTM
+Addr: ('127.0.0.1', 56011)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:11:10 GTM
+Addr: ('127.0.0.1', 56012)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:15:10 GTM
+Addr: ('127.0.0.1', 61176)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:15:10 GTM
+Addr: ('127.0.0.1', 61177)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:15:16 GTM
+Addr: ('127.0.0.1', 61186)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 22:15:16 GTM
+Addr: ('127.0.0.1', 61187)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:15:31 GTM
+Addr: ('127.0.0.1', 49527)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:15:31 GTM
+Addr: ('127.0.0.1', 49528)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:15:39 GTM
+Addr: ('127.0.0.1', 49537)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.gif
+Date: Tue, 30 Nov 2021 22:15:40 GTM
+Addr: ('127.0.0.1', 49538)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:18:22 GTM
+Addr: ('127.0.0.1', 61846)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\image.gif
+Date: Tue, 30 Nov 2021 22:18:22 GTM
+Addr: ('127.0.0.1', 61847)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:18:27 GTM
+Addr: ('127.0.0.1', 61855)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:18:28 GTM
+Addr: ('127.0.0.1', 61856)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:18:32 GTM
+Addr: ('127.0.0.1', 61863)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\403.html
+Date: Tue, 30 Nov 2021 22:18:32 GTM
+Addr: ('127.0.0.1', 61864)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:18:42 GTM
+Addr: ('127.0.0.1', 61873)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:18:43 GTM
+Addr: ('127.0.0.1', 61874)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html
+Date: Tue, 30 Nov 2021 22:18:46 GTM
+Addr: ('127.0.0.1', 61875)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\index.html
+Date: Tue, 30 Nov 2021 22:18:47 GTM
+Addr: ('127.0.0.1', 61877)
+File: C:\Users\Þëÿ\PycharmProjects\pythonProject2\404.html

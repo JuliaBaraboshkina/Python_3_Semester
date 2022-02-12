@@ -1,0 +1,35 @@
+Start...
+Connection...
+Port> 9090
+Start listening...
+Folder already exists
+ls
+mkdir TEST
+ls
+Folder already exists
+echo Hello >> hello.txt
+Text is written inC:\Users\Þëÿ\PycharmProjects\pythonProject3\Julia\hello.txt
+mkdir Test
+ls
+cd ..
+ls
+cat hello.txt
+pwd
+cd Test
+ls
+echo Nice >> ttt.txt
+Text is written inC:\Users\Þëÿ\PycharmProjects\pythonProject3\Julia\Test\ttt.txt
+ls
+pwd
+ls
+cd ..
+ls
+cd Test
+ls
+pwd
+rm ttt.txt
+pwd
+cd ..
+rmdir Test
+exit
+None
